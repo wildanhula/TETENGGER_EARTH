@@ -1,0 +1,6 @@
+body {
+    background-image: linear-gradient(#254336 0%, #ffff 50%, #254336 100%);
+    font-family: "DM Serif Display" "Bebas Neue" "Kreon" "Cutive" Arial, Helvetica,
+      sans-serif;
+    min-height: 940px;
+  }
